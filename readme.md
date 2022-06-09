@@ -1,4 +1,4 @@
-# 千峰训练营低代码可视化平台课件
+# 珠峰训练营低代码可视化平台课件
 - ## 教程链接: [b站](https://www.bilibili.com/video/BV1y3411z7ST) 
 - ## 教程链接2: [b站](https://www.bilibili.com/video/BV16U4y1E7yx)
 
